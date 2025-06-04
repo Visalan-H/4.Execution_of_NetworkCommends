@@ -26,7 +26,34 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
+## Developed By: Visalan H
+## Register Number:212223240183
+
 ## Output
+
+### netstat
+
+![image](https://github.com/user-attachments/assets/fa14b1c4-2230-44a0-93ca-e447ccb2b7bb)
+
+### ipconfig
+
+![image](https://github.com/user-attachments/assets/ace422f3-d8e8-491e-a59c-7af9bba56017)
+
+### ping
+
+![image](https://github.com/user-attachments/assets/1dc17686-67fd-4203-82a8-cb98e91dee24)
+
+### tracert
+
+![image](https://github.com/user-attachments/assets/a813d02a-e7bd-4f61-951c-09620283dae4)
+
+### getmac
+
+![image](https://github.com/user-attachments/assets/486e9205-ce85-4bc2-aee6-5ae1ad2854d9)
+
+### hostname
+
+![image](https://github.com/user-attachments/assets/d6b3fe74-ebc0-4112-8366-6e93befca29d)
 
 ## Result
 Thus Execution of Network commands Performed 
